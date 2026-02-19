@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Divine. I’m a Computer Science student who originally got into coding through art, and ended up staying because I genuinely love creating things. Websites, small tools, software, anything tangible that people can see, use, or interact with. I like the idea that something I build can exist outside my head and actually impact someone else.<br><br>I started with HTML, CSS, Bootstrap, and JavaScript, and more recently I’ve found myself really enjoying Python. My first full project using Python was a vocabulary builder for a school assignment, and working on it completely changed how I understand websites and software. It helped me see how different parts of a system connect, how backend logic supports what users see, and how much intention goes into making something function smoothly. That understanding has carried over into how I approach frontend work as well.<br><br>Right now, most of my experience comes from school projects, simply because balancing coursework, job searching, and everything else hasn’t left much room for personal projects yet. Even so, I put real effort into the work I do, and I care deeply about learning things properly, even if it takes me longer than others. When I’m interested in something, I go all in, even when it’s difficult or frustrating.<br><br>My process is usually a bit messy at first. I start with rough ideas, half-formed concepts, and a lot of trial and error. If I get stuck, I research, look for inspiration, and let things sit until they click. Then comes the building, debugging, fixing things I’ve already fixed before, and slowly shaping the project into something that works. I’m still learning how to be more comfortable with mistakes and failure, but I know they’re part of the process.<br><br>I’m especially interested in the creative side of web development and would like to explore tools and technologies like React and Figma when I have the time. I also have some experience with C, C++, and SQL, and I’m always curious about learning new languages and frameworks as I figure out what kind of developer I want to become.<br><br>Outside of coding, I draw, mostly traditionally, though I’m learning digital art as well. I play classical guitar and I’m learning piano. If I’m not coding, I’m probably worldbuilding, which is also tied to a long-term creative project I hope to bring to life one day through a website and other interactive work.<br><br>I’m still early in my journey, but I care about what I make, I enjoy learning, and I’m focused on building things that feel meaningful to me.
 
-<!--
-**DeeNovare/DeeNovare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dee_novare) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Dee_Novare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divy1nwajueboe@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeeNovare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DeeNovare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeNovare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DeeNovare&icon=8&color=2)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Divy) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
